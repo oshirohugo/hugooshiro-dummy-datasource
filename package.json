@@ -1,6 +1,6 @@
 {
   "name": "dummy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Dummy plugin for testing",
   "scripts": {
     "build": "webpack -c ./.config/webpack/webpack.config.ts --env production",
