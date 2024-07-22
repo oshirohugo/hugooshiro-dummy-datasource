@@ -4,7 +4,16 @@ Remove any remaining comments before publishing as these may be displayed on Gra
 
 # Dummy
 
-Dummy plugin for testing
+This is a nice plugin created from the scaffold provide by `@grafana/create-plugin@latest`
+
+
+## What are Grafana data source plugins?
+
+Here I should provide a nice description.
+
+
+![This is fine](https://github.com/oshirohugo/hugooshiro-dummy-datasource/raw/main/cat.webp)
+
 
 <!-- To help maximize the impact of your README and improve usability for users, we propose the following loose structure:
 
