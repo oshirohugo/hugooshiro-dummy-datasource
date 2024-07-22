@@ -8,4 +8,4 @@ This is a nice plugin created from the scaffold provide by `@grafana/create-plug
 Here I should provide a nice description.
 
 
-![This is fine](https://github.com/oshirohugo/hugooshiro-dummy-datasource/raw/main/this-is-fine.gif)
+![This is fine](https://github.com/oshirohugo/hugooshiro-dummy-datasource/raw/main/cat.webp)
