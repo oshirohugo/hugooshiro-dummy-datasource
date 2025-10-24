@@ -1,4 +1,4 @@
-# Dummy
+# Dummy v1.0.6
 
 This is a cool plugin created from the scaffold provide by `@grafana/create-plugin@latest`
 
